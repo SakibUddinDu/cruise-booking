@@ -152,7 +152,7 @@ a.active {
 }
 .popup .close {
   position: absolute;
-  top: 20px;
+  top: 30px;
   right: 30px;
   transition: all 200ms;
   font-size: 30px;
@@ -164,7 +164,7 @@ a.active {
   color: #06d85f;
 }
 .popup .content {
-  max-height: 30%;
+  max-height: 40%;
   overflow: auto;
 }
 /* Chrome, Safari, Edge, Opera */
